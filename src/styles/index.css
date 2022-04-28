@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600&family=Poppins:wght@500&display=swap');
+
 body {
   display: flex;
   justify-content: center;
-  background: #f8f8f3;
+  background: #F6F8FB;
+  ;
   margin: 0 auto;
   align-content: center;
-  font-family: -apple-system, BlinkMacSystemFont, 'Poppins', sans-serif;;
+  font-family: -apple-system, BlinkMacSystemFont, 'Poppins', 'Montserrat Alternates', sans-serif;;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -13,4 +17,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');

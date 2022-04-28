@@ -45,10 +45,25 @@
 }
 
 .App-btn {
-  margin:0 auto;
+  margin:5rem;
+  height: 31.983793258666992px;
+  width: 101px;
+  font-size: 12px;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  background: #2F80ED;
 
 }
 
 .App-input {
   visibility: hidden;
+}
+
+.footer {
+  font-family: Poppins;
+  color: #4F4F4F;
+  position: absolute;
+  bottom: 0;
+  margin-left: 2rem;
 }
