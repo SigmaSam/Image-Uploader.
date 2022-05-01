@@ -1,0 +1,17 @@
+.loader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    color: #4F4F4F;
+    margin-top: -5rem;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    width: 400.36px;
+    height: 143.57px;
+}
+.loader-bar{
+    width:100%;
+
+}

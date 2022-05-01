@@ -4,13 +4,14 @@
 body {
   display: flex;
   justify-content: center;
+  align-items: center;
   background: #F6F8FB;
-  ;
   margin: 0 auto;
   align-content: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Poppins', 'Montserrat Alternates', sans-serif;;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
 }
 
 code {
