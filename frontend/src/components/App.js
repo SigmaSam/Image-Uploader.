@@ -1,4 +1,3 @@
-
 import '../styles/App.css';
 import { useState,useEffect } from 'react';
 import Uploader from './Uploader';
@@ -8,8 +7,9 @@ import Loader from './Loader'
 function App() {
   const [load, setLoad] = useState(false)
   
+  
   useEffect(()=> {
-    let timer = setTimeout(() => setLoad(true), 200000);
+    let timer = setTimeout(() => setLoad(true), 2000);
     return () => {
       clearTimeout(timer);
     }
