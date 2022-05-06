@@ -66,3 +66,15 @@
   bottom: 0;
   margin-left: 2rem;
 }
+.app-check {
+  margin:0 auto;
+  max-width: 35px;
+  margin-bottom: 2rem;
+}
+
+.app-image {
+  margin:3rem auto;
+  max-width: 338px;
+  max-height: 224px;
+  border-radius: 12px;
+}
