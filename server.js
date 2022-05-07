@@ -13,7 +13,7 @@ app.use(cors(corsOptions));
 
 const initRoutes = require("./src/routes");
 
-app.use(express.urlencoded({ extend: true}));
+app.use(express.urlencoded({ extended: true}));
 
 initRoutes(app);
 
